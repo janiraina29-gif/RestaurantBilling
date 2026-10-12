@@ -1,0 +1,6 @@
+1|Paneer Butter Masala|Main Course|24050|1
+2|Masala Dosa|Breakfast|8000|1
+3|Filter Coffee|Drinks|3500|1
+4|Veg Biryani|Main Course|18000|1
+5|Gulab Jamun|Dessert|6050|1
+6|Mango Lassi|Drinks|7000|1
